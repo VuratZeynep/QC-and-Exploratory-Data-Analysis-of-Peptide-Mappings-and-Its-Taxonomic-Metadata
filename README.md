@@ -1,4 +1,4 @@
-# QC-and-Exploratory-Data-Analysis-of-Peptide-Mappings-and-Its-Taxonomic-Metadata
+# QC and Exploratory Data Analysis of Peptide Mappings and Its Taxonomic Metadata
 
   This repository includes two notebooks covering quality control steps and exploratory analysis of mapped peptide dataset and its metadata. For both notebooks, the analyses were supported by markdown notes and comments within the code. The final section includes the key findings of the analysis, potential patterns, and data issues.
 
