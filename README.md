@@ -14,30 +14,30 @@
 
 ### QC and Overview Notebook covers:
 
-1. Loading both Parquet files
+    1. Loading both Parquet files
 
-2. Quick QC: number of rows/columns, missing values, duplicates
+    2. Quick QC: number of rows/columns, missing values, duplicates
 
-3. Column overview: listing the main columns and what they represent
+    3. Column overview: listing the main columns and what they represent
 
 ### Core Analysis Notebook covers:
 
-1. Top counts tables (top 10–20) for:
+    1. Top counts tables (top 10–20) for:
 
-i. Most frequent peptides (top 20)
+        i. Most frequent peptides (top 20)
 
-    a. The prevalence of the top 20 peptides in viruses and humans
+            a. The prevalence of the top 20 peptides in viruses and humans
 
-    b. Peptides with viral + human overlaps
+            b. Peptides with viral + human overlaps
    
-ii. Most frequent accessions/proteins
+        ii. Most frequent accessions/proteins
 
-iii. Most frequent taxids and/or families (via lookup)
+        iii. Most frequent taxids and/or families (via lookup)
 
-3. Distributions/plots:
+    2. Distributions/plots:
 
-i. Peptide frequency distribution (how often peptides repeat)
+        i. Peptide frequency distribution (how often peptides repeat)
 
-ii. Counts per taxid/family (bar plot for top groups)
+        ii. Counts per taxid/family (bar plot for top groups)
 
-4. Findings
+    3. Findings
