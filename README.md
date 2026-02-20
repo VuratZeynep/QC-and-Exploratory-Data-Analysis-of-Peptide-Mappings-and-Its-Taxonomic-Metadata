@@ -5,11 +5,13 @@
 ### Parquet files:
 
 1. Mapped peptide file – contains the peptide mapping results. (97.744.896 rows, 4 columns)
+
 2. Metadata file – serves as a lookup table for annotations. (4.353.709 rows, 9 columns)
 
 ### Notebooks: 
 
 1. QC_and_overview.ipynb
+  
 2. Core_analysis.ipynb
 
 ### QC and Overview Notebook covers:
